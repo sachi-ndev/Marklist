@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": "49abe35d-sdf8c4-471a-ad9a-cfa2e1b5b9a5",
+      "name": "wonderwoman",
+      "subject": "Science",
+      "mark": "50",
+      "dob": "2027-06-03"
+    },
+    {
+      "id": "49abesdf35d-48c4-471a-ad9a-cfa2e1b5b9a5",
+      "name": "Ironman",
+      "subject": "Physics",
+      "mark": 90,
+      "dob": "2021-12-01"
+    },
+    {
+      "id": "2dd08f15-6f80-4d2f-8a10-303e4620c3d6",
+      "name": "Spider man",
+      "subject": "Maths",
+      "mark": "23",
+      "dob": "2023-12-21"
+    },
+    {
+      "id": "efb21caf-e4d6-469d-89c5-47a33f0099d6",
+      "name": "spong bob",
+      "subject": "pyshics",
+      "mark": "23",
+      "dob": "2023-12-09"
+    }
+  ]
+}
